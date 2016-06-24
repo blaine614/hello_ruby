@@ -1,1 +1,3 @@
-# hello_ruby
+# This is the Ruby on Rails Tutorial: "hello, world!"
+
+This is the first app for the blah blah balg ga ba.....
